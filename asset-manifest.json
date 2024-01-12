@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toiture-demir/static/css/main.a56358fe.css",
+    "main.js": "/toiture-demir/static/js/main.4da8445c.js",
+    "index.html": "/toiture-demir/index.html",
+    "main.a56358fe.css.map": "/toiture-demir/static/css/main.a56358fe.css.map",
+    "main.4da8445c.js.map": "/toiture-demir/static/js/main.4da8445c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56358fe.css",
+    "static/js/main.4da8445c.js"
+  ]
+}
