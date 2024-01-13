@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toiture-demir/static/css/main.a56358fe.css",
-    "main.js": "/toiture-demir/static/js/main.4da8445c.js",
+    "main.css": "/toiture-demir/static/css/main.0979a48b.css",
+    "main.js": "/toiture-demir/static/js/main.1b37ea24.js",
     "index.html": "/toiture-demir/index.html",
-    "main.a56358fe.css.map": "/toiture-demir/static/css/main.a56358fe.css.map",
-    "main.4da8445c.js.map": "/toiture-demir/static/js/main.4da8445c.js.map"
+    "main.0979a48b.css.map": "/toiture-demir/static/css/main.0979a48b.css.map",
+    "main.1b37ea24.js.map": "/toiture-demir/static/js/main.1b37ea24.js.map"
   },
   "entrypoints": [
-    "static/css/main.a56358fe.css",
-    "static/js/main.4da8445c.js"
+    "static/css/main.0979a48b.css",
+    "static/js/main.1b37ea24.js"
   ]
 }
