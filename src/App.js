@@ -41,8 +41,8 @@ function App() {
       </div>
       <div className='contact' id='cont'>
         <h1>Demandez un rendez-vous.</h1>
-        <form name="contact" method="post" className='contact__form' data-netlify="true" onSubmit="submit">
-        <input type="hidden" name="form-name" value="contact" />
+        <form name="contact" method="post" className='contact__form' action="https://formsubmit.io/send/deltatoitures@hotmail.com" onSubmit="submit">
+        
             <label for='name'>Nom : </label>
             <input type="text" name="name"/>
         
