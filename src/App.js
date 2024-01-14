@@ -41,18 +41,18 @@ function App() {
       </div>
       <div className='contact' id='cont'>
         <h1>Demandez un rendez-vous.</h1>
-        <form name="contact" method="post" className='contact__form' action="https://formsubmit.io/send/deltatoitures@hotmail.com" onSubmit="submit">
+        <form name="contact" method="post" className='contact__form' action="https://formsubmit.io/send/deltatoitures@hotmail.com" >
         
-            <label for='name'>Nom : </label>
+            <label htmlFor='name'>Nom : </label>
             <input type="text" name="name"/>
         
-            <label for='firstname'>Prénom :</label>
+            <label htmlFor='firstname'>Prénom :</label>
              <input type="text" name="firstname"/>
         
-            <label for='email'>Email: </label>
+            <label htmlFor='email'>Email: </label>
             <input type="email" name="email"/>
         
-            <label for='message'>Message:</label>
+            <label htmlFor='message'>Message:</label>
              <textarea name="message"></textarea>
       
        
