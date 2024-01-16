@@ -35,6 +35,7 @@
   .accueil{
     flex-direction: column;
     justify-content: center;
+    overflow: scroll;
     gap: 20px;
   }
 }
@@ -92,6 +93,7 @@
 @media screen and(min-width:900px) {
   .images{
    flex-direction: column;
+    overflow: scroll;
   }
 }
 .images img{
